@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![f4-11's GitHub stats](https://github-readme-stats.vercel.app/api?username=f4-11)](https://github.com/f4-11/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f4-11)](https://github.com/f4-11/github-readme-stats)
-[![Star History Chart](https://api.star-history.com/svg?repos=f4-11/f4-11&type=Date)](https://star-history.com/#star-history/star-history&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=f4-11/f4-11&type=Date)](https://star-history.com/#f4-11/f4-11&Date)
